@@ -1,16 +1,28 @@
-## Hi there 👋
+## VIDHYASRI PROFILE 👋
 
-<!--
-**gvidhya884/gvidhya884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello i am Vidhyasri
+#### computer science student
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Programming Languages**
+
+<img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  <img width="60" height="60" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>  <img width="50" height="50" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>  
+
+## **IDE and Tools**
+
+<img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>     <img width="50" height="50" src="https://img.icons8.com/officel/40/java-eclipse.png" alt="java-eclipse"/>       <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>    <img width="50" height="50" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/>    <img width="48" height="48" src="https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/48/external-notion-social-media-tanah-basah-glyph-tanah-basah.png" alt="external-notion-social-media-tanah-basah-glyph-tanah-basah"/>   <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>    <img width="50" height="50" src="https://img.icons8.com/color/48/blender-3d.png" alt="blender-3d"/>
+
+
+
+
+## **Leet code**
+![LeetCode Stats](https://leetcard.jacoblin.cool/vidhyasri_24?theme=dark&font=Adamina&ext=heatmap)
+
+## **GitHub**
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gvidhya884&bg_color=0a0608&color=f287eb&line=da2bce&point=af9d9d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 📫 Connect With Me
+- GitHub: https://github.com/gvidhya884
+- LeetCode: https://leetcode.com/vidhyasri_24
+- LinkedIn: www.linkedin.com/in/
+vidhyasri-g-24660a328
